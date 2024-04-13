@@ -11,3 +11,6 @@ all atoms are modelled as balls which constantly satisfy the momentum conservati
 This demo is built using Microsoft Visual Studio 2022 community version on Windows 10 home.
 
 Test system: intel core i7-7700 with nVidia GeForce RTX 3050
+
+
+![atomMotions](https://github.com/eisbaer137/WIN32_AtomsIn2DBoxDemo/assets/166890279/af2b085e-5109-4865-96f0-5b18372ad7ce)
